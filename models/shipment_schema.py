@@ -1,0 +1,1 @@
+# Defines shipment JSON schema
